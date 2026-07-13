@@ -1,0 +1,6 @@
+{
+  "name": "백두산 쇼츠 빌더",
+  "description": "서울 국제연합 여행사의 51주년 특별 이벤트인 백두산 관광 행사 안내를 바탕으로 유튜브 쇼츠 동영상 대본과 홍보 안내 텍스트를 생성하고 편집하는 전문 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
